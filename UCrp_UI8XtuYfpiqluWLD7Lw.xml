@@ -118,5 +118,17 @@
       <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/lQHC0ZmVLLQ.mkv" length="50312778" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/lQHC0ZmVLLQ/hqdefault.jpg"/>
     </item>
+    <item>
+      <description><![CDATA[‘Mad Money’ host Jim Cramer and the ‘Squawk on the Street’ team break down bank earnings.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[Jim Cramer: The consumer is strong; it will be difficult for the Fed to slow economy]]></title>
+      <guid>vWhWMmscnIg</guid>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</source>
+      <author>CNBC Television</author>
+      <link>https://www.youtube.com/watch?v=vWhWMmscnIg</link>
+      <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/vWhWMmscnIg.mkv" length="37541624" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/vWhWMmscnIg/hqdefault.jpg"/>
+    </item>
   </channel>
 </rss>
