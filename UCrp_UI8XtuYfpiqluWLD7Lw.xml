@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>CNBC Television</title>
+    <link>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</link>
+    <description></description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AMLnZu-AV_bYvI2D5M289VDkLZTAb1gshEFwJXpopSbGoA=s0</url>
+      <title>CNBC Television</title>
+      <link>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</link>
+    </image>
+    <item>
+      <description><![CDATA[Kristina Partsinevelos joins 'Squawk Box' to report on extreme heat in the south with possible blackouts.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[Excessive heat impact on Texas power and Bitcoin]]></title>
+      <guid>j3GnhvETbUo</guid>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</source>
+      <author>CNBC Television</author>
+      <link>https://www.youtube.com/watch?v=j3GnhvETbUo</link>
+      <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/j3GnhvETbUo.mkv" length="22994490" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/j3GnhvETbUo/maxresdefault.jpg"/>
+    </item>
+  </channel>
+</rss>
