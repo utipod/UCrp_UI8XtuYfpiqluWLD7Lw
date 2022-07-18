@@ -322,5 +322,17 @@
       <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/vWhWMmscnIg.mkv" length="37541624" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/vWhWMmscnIg/hqdefault.jpg"/>
     </item>
+    <item>
+      <description><![CDATA[Neal Dingmann, Truist Securities, joins 'Squawk on the Street' to discuss his thoughts around oil and natural gas, how much higher said prices could go and what will drive companies to have less capital discipline.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[Oil and natural gas prices will go higher due to lack of supply, says Truist's Dingmann]]></title>
+      <guid>zNh9iYeBw8c</guid>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</source>
+      <author>CNBC Television</author>
+      <link>https://www.youtube.com/watch?v=zNh9iYeBw8c</link>
+      <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/zNh9iYeBw8c.mkv" length="24955105" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/zNh9iYeBw8c/maxresdefault.jpg"/>
+    </item>
   </channel>
 </rss>
