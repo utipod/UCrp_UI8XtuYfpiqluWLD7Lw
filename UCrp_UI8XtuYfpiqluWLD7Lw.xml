@@ -331,7 +331,7 @@
       <source>https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw</source>
       <author>CNBC Television</author>
       <link>https://www.youtube.com/watch?v=zNh9iYeBw8c</link>
-      <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/zNh9iYeBw8c.mkv" length="24955105" type="video/x-matroska"/>
+      <enclosure url="http://174.89.235.81:8080/UCrp_UI8XtuYfpiqluWLD7Lw/zNh9iYeBw8c.mkv" length="24955107" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/zNh9iYeBw8c/maxresdefault.jpg"/>
     </item>
   </channel>
